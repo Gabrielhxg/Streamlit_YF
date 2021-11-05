@@ -15,8 +15,10 @@ import matplotlib.pyplot as plt
 
 
 ############ Tabela de setorização ############
-path = '/Users/gabrielgomes/Minha Carteira /Streamlit_YF/YFcripto_sectors.csv'
-M = pd.read_csv(path)
+sheet_url = 'https://docs.google.com/spreadsheets/d/1B1n4FOxJofKzA3pwOfioqhyIeZH6WOX77iKw5_VX5Jo/edit#gid=0'
+url_1 = sheet_url.replace('/edit#gid=', '/export?format=csv&gid=')
+
+M = pd.read_csv(url_1)
 
 
 
@@ -28,14 +30,14 @@ M = pd.read_csv(path)
 DeFi = M['DeFi'].dropna()
 Prvcy = M['Prvcy'].dropna()
 MstNodes = M['MstNodes'].dropna()
-Media = M['media'].dropna()
+Media = M['Media'].dropna()
 Logistcs_IoT = M['Logistcs_IoT'].dropna()
 Storage = M['Storage'].dropna()
 Research  = M['Research '].dropna()
 Gambl = M['Gambl'].dropna()
 CEx = M['Cex'].dropna()
 Trsm = M['Trsm'].dropna()
-Energy = M['energy'].dropna()
+Energy = M['Energy'].dropna()
 
 
 sector = [DeFi, Prvcy, MstNodes, Media, Logistcs_IoT, Storage, Research, Gambl, CEx, Trsm, Energy]
