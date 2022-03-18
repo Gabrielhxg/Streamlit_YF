@@ -1,1 +1,1 @@
-To access workflow and Main_app.py script, access the Master Brench. 
+To access workflow, the cripto_app.py and support scripts, access the Master Brench. 
