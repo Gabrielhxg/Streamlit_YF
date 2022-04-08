@@ -16,7 +16,7 @@ as to answer the following question:
 More about the theory [here](https://www.investopedia.com/terms/s/sharperatio.asp#:~:text=The%20Sharpe%20ratio%20was%20developed,of%20volatility%20or%20total%20risk.).
 
 ## **APP Link** 
-To access the web app, please use this [link](https://bit.ly/criptoport)
+To access the web app, please open this [link](https://bit.ly/criptoport) in another tab.
 
 ## **Beta usability**
 As the beta app activates, it shows an **IndexError**, which rises when no cryptocurrency is selected. 
