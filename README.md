@@ -68,7 +68,23 @@ The last table (Proporção) returns the optimal portfolio allocation according 
 
 ![im6](https://user-images.githubusercontent.com/52026781/162525526-175adb33-705d-49ea-bc12-7ed67ff92042.png)
 
-The code snippet for the algorithm function is here.
+The code gist for the algorithm function is [here](https://gist.github.com/Gabrielhxg/ca3db3617d172323e7e013dfbbcd49bb).
 
+## **Best Crypto-portfolio Allocation - Privacy Sector**
+> Pirate Chain | 42,51%
 
-*ps | To access workflow, the main_app and support scripts, access the **Master Branch*** 
+> Xaya | 0,85%
+
+> Phala Network | 36,08%
+
+> Beanstalk | 19,07%
+
+> The Sendbox | 1,50% 
+
+## **Portfolio Return on Investment**
+> ROI over 31 days: **40%** 
+
+> Risk over 31 days: **20%** 
+
+## *ps 
+To access workflow, the main_app and support scripts, access the **Master Branch** 
